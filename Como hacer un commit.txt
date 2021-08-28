@@ -1,0 +1,31 @@
+Copiar los archivos a subir desde el proyecto:
+C:\Users\tress\IdeaProjects
+
+Pegar en repositorio:
+C:\Users\tress\OneDrive\Documentos\curso_selenium
+
+En sourcetree aparece "Uncommited changes"
+
+En File Status se ven abajo los "Unstaged files": 
+- si tiene un icono azul con "?" es un archivo
+- si tiene un icono amarillo con "..." es un arhivo ya subido que tiene cambios
+- si clickeo en uno me muestra el contenido
+- si lo selecciono pasa arriba a "Staged files"
+  Abajo se agrega un comentario y clickeo Commit
+  Se visualiza en la rama dev
+
+Parado en dev creo una nueva rama con Branch
+
+Para subir a Git, me paro en la rama, pulso Push y selecciono la rama
+Al pulsar OK se sube y se puede visualizar en Git
+
+Creacion de Pull Request:
+Voy a la solapa Pull Requests
+Me va a mostrar los cambios y la opcion Compare & pull request
+Pero se puede seleecionar "New pull request" y seleccionar:
+base: dev - compare: nombre_de_la_rama
+Verifico los archivos y selecciono "Create pull request"
+Verificar a la derecha si muestra Reviewers sino agregarlo
+
+El Merge pull request lo hace el revisor
+Una vez mergeado, en Sourcetree queda listo para hacer Pull
