@@ -29,3 +29,6 @@ Verificar a la derecha si muestra Reviewers sino agregarlo
 
 El Merge pull request lo hace el revisor
 Una vez mergeado, en Sourcetree queda listo para hacer Pull
+
+token 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
+28/08 x 30 dias
